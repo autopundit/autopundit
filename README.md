@@ -2,7 +2,9 @@
 - 👀 I’m interested in Web Development
 - 🌱 I’m currently learning React
 - 💞️ I’m looking to collaborate on Real Time Projects
-- 📫 How to reach me @autopundit
+- 📫 How to reach me 
+- IG: @autopundit 
+- email-id: hussaindilshad786786@gmail.com
 
 <!---
 autopundit/autopundit is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
