@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on Real Time Projects
 - 📫 How to reach me 
 - IG: @autopundit 
-- email-id: hussaindilshad786786@gmail.com
+- email-id: dh.intern7@gmail.com
 
 <!---
 autopundit/autopundit is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
